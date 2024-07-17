@@ -16,7 +16,6 @@ def criar_menu():
     ]
     return menu_def
 
-
 sg.theme('DarkGrey8')
 
 
