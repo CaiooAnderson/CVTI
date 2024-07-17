@@ -18,7 +18,6 @@ def criar_menu():
 
 sg.theme('DarkGrey8')
 
-
 def telaapresentacao():
 
     layout = [
