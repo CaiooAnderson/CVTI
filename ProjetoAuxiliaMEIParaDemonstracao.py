@@ -1,6 +1,5 @@
 import PySimpleGUI as sg
 
-
 def criar_menu():
 
     menu_def = [
