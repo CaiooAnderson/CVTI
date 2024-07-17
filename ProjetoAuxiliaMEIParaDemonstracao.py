@@ -116,7 +116,6 @@ ocorre pela ocupação que está habilitado. Que no caso são:
             break
     window.close()
 
-
 def tela1(tema1):
 
     gifimagem1 = 'Dinheiro1.gif'
