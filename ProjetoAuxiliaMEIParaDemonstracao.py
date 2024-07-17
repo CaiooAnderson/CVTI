@@ -3,8 +3,6 @@ import PySimpleGUI as sg
 
 def criar_menu():
 
-
-    
     menu_def = [
         ['Curso de Programação', ['Como é esse curso de Programação?',
                                   'Quem é o professor de Programação?',]],
